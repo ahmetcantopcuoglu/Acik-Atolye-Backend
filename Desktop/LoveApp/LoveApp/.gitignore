@@ -43,5 +43,8 @@ yarn-error.*
 
 AppData/Roaming/Code/
 AppData/Local/Google/Chrome/
+AppData/Local/ElevatedDiagnostics/
+
+
 
 
